@@ -32,7 +32,7 @@ export default function PaliConverter() {
     { value: Script.THAI, label: "Thai" },
     { value: Script.LAOS, label: "Lao" },
     { value: Script.MY, label: "Myanmar" },
-    { value: Script.SHAN, label: "Shan (Tai / Yai)" },
+    { value: Script.SHAN, label: "Shan (Tai / Dai)" },
     { value: Script.KM, label: "Khmer" },
     { value: Script.BENG, label: "Bengali" },
     { value: Script.GURM, label: "Gurmukhi" },
