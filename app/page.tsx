@@ -32,7 +32,7 @@ export default function PaliConverter() {
     { value: Script.THAI, label: "Thai" },
     { value: Script.LAOS, label: "Lao" },
     { value: Script.MY, label: "Myanmar" },
-    { value: Script.SHAN, label: "Shan (Tai Yai)" },
+    { value: Script.SHAN, label: "Shan (Tai / Yai)" },
     { value: Script.KM, label: "Khmer" },
     { value: Script.BENG, label: "Bengali" },
     { value: Script.GURM, label: "Gurmukhi" },
@@ -337,7 +337,7 @@ export default function PaliConverter() {
                               <strong>Myanmar:</strong> Used in Burma/Myanmar
                             </li>
                             <li>
-                              <strong>Shan (Tai Yai):</strong> Used in Shan State, Myanmar
+                              <strong>Shan (Tai / Dai):</strong> Used in Shan State, Myanmar
                             </li>
                             <li>
                               <strong>Khmer:</strong> Used in Cambodia
@@ -402,7 +402,7 @@ export default function PaliConverter() {
             </Tabs>
           </CardContent>
           <CardFooter className="text-center text-sm text-muted-foreground py-4 border-t">
-            © 2025 Pali Script Converter | Modern version
+            © 2025 Pali Script Converter | SSBU.
           </CardFooter>
         </Card>
       </motion.div>
